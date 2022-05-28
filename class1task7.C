@@ -6,7 +6,7 @@ int main()
   int num;
   long int a,reversenum=0;
 
-  printf("Enter the 5 digit number(Not Greater Than 32767):\n");
+  printf("Enter the 5 digit number:\n");
   scanf("%d",&num);
 
   a=num%10;
